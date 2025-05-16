@@ -1,0 +1,398 @@
+[
+    {
+        "index": 0,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 1,
+        "type": "Multiple Choice",
+        "title": "Bạn đang học năm thứ mấy?",
+        "answer_format": "single_choice",
+        "options": [
+            "Năm\n                                                                        nhất",
+            "Năm\n                                                                        hai",
+            "Năm\n                                                                        ba",
+            "Năm\n                                                                        tư",
+            "Khác (vui\n                                                                        lòng ghi rõ)"
+        ]
+    },
+    {
+        "index": 2,
+        "type": "Multiple Choice",
+        "title": "Bạn đã từng tham gia khóa học hoặc dự án liên quan đến phân\n                                            tích kinh doanh chưa?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không"
+        ]
+    },
+    {
+        "index": 3,
+        "type": "Multiple Choice",
+        "title": "Bạn đã sử dụng phần mềm kế toán nào chưa?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không"
+        ]
+    },
+    {
+        "index": 4,
+        "type": "Multiple Choice",
+        "title": "Bạn đã sử dụng phần mềm kế toán nào?",
+        "answer_format": "single_choice",
+        "options": [
+            "MISA",
+            "FAST"
+        ]
+    },
+    {
+        "index": 5,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 6,
+        "type": "Checkbox",
+        "title": "Bạn đã sử dụng những công cụ phân tích kinh doanh nào sau đây?\n                                            (Chọn tất cả các đáp án phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Microsoft Excel",
+            "SQL",
+            "Python",
+            "R",
+            "Tableau",
+            "Power BI",
+            "Microsoft Visio",
+            "Balsamiq",
+            "Jira",
+            "Confluence",
+            "Modern\n                                                            Requirements",
+            "Axure",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 7,
+        "type": "Multiple Choice Grid",
+        "title": "Vui lòng đánh giá mức độ thành thạo của bạn đối với các công\n                                            cụ sau (1 - Người mới bắt đầu, 5 - Chuyên gia)",
+        "answer_format": "grid_single_choice",
+        "rows": [
+            "Microsoft Excel",
+            "SQL",
+            "Python",
+            "Tableau",
+            "Power BI",
+            "Microsoft Visio",
+            "Jira",
+            "Confluence",
+            "Microsoft Excel",
+            "SQL",
+            "Python",
+            "Tableau",
+            "Power BI",
+            "Microsoft Visio",
+            "Jira",
+            "Confluence"
+        ],
+        "columns": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "index": 8,
+        "type": "Paragraph Answer",
+        "title": "Bạn có biết đến công cụ AI nào được sử dụng trong phân tích\n                                            kinh doanh không? Nếu có, vui lòng liệt kê.",
+        "answer_format": "long_text"
+    },
+    {
+        "index": 9,
+        "type": "Multiple Choice Grid",
+        "title": "Vui lòng đánh giá mức độ tự tin của bạn trong các lĩnh vực sau\n                                            (1 - Không tự tin, 5 - Rất tự tin)",
+        "answer_format": "grid_single_choice",
+        "rows": [
+            "Phân tích tài chính",
+            "Phân tích dữ liệu",
+            "Trực quan hóa dữ liệu",
+            "Quản lý yêu cầu",
+            "Thiết kế wireframe/prototype",
+            "Quản lý dự án",
+            "Giao tiếp và thuyết trình",
+            "Giải quyết vấn đề",
+            "Phân tích tài chính",
+            "Phân tích dữ liệu",
+            "Trực quan hóa dữ liệu",
+            "Quản lý yêu cầu",
+            "Thiết kế wireframe/prototype",
+            "Quản lý dự án",
+            "Giao tiếp và thuyết trình",
+            "Giải quyết vấn đề"
+        ],
+        "columns": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "index": 10,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 11,
+        "type": "Linear Scale",
+        "title": "Bạn quan tâm đến việc học các công cụ và kỹ năng phân tích\n                                            kinh doanh ở mức độ nào?",
+        "answer_format": "scale",
+        "range": {
+            "min": 1,
+            "max": 5
+        }
+    },
+    {
+        "index": 12,
+        "type": "Checkbox",
+        "title": "Bạn muốn học những công cụ nào nhất sau đây? (Chọn tối đa 5\n                                            công cụ)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Microsoft Excel (tính\n                                                            năng nâng cao)",
+            "SQL",
+            "Python",
+            "R",
+            "Tableau",
+            "Power BI",
+            "Microsoft Visio",
+            "Balsamiq",
+            "Jira",
+            "Confluence",
+            "Modern\n                                                            Requirements",
+            "Axure",
+            "Công cụ AI (ví dụ:\n                                                            ChatGPT, AutoML)",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 13,
+        "type": "Checkbox",
+        "title": "Khi chọn công cụ phân tích kinh doanh để học, những yếu tố nào\n                                            sau đây quan trọng nhất đối với bạn? (Chọn tối đa 3 yếu tố)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Dễ sử dụng",
+            "Chức năng và tính\n                                                            năng",
+            "Chi phí (miễn phí hoặc\n                                                            giá phải chăng)",
+            "Có sẵn tài nguyên học\n                                                            tập (hướng dẫn, tài liệu)",
+            "Được giáo sư hoặc bạn bè\n                                                            khuyên dùng",
+            "Được sử dụng rộng rãi\n                                                            trong ngành, giúp ích cho việc làm",
+            "Được yêu cầu trong\n                                                            chương trình học",
+            "Tương thích với thiết bị\n                                                            của bạn",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 14,
+        "type": "Checkbox",
+        "title": "Bạn muốn học những chủ đề nào sau đây? (Chọn tất cả các đáp án\n                                            phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Phân tích yêu cầu",
+            "Mô hình hóa quy trình\n                                                            kinh doanh",
+            "Phân tích dữ liệu và\n                                                            thống kê",
+            "Trực quan hóa dữ\n                                                            liệu",
+            "Quản lý dự án\n                                                            Agile",
+            "Ứng dụng AI và máy học\n                                                            trong phân tích kinh doanh",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 15,
+        "type": "Multiple Choice",
+        "title": "Bạn có quan tâm đến việc học cách ứng dụng AI và máy học trong\n                                            phân tích kinh doanh không?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không",
+            "Không chắc\n                                                                        chắn"
+        ]
+    },
+    {
+        "index": 16,
+        "type": "Linear Scale",
+        "title": "Bạn nghĩ việc học các công cụ và kỹ năng phân tích kinh doanh\n                                            quan trọng như thế nào đối với sự nghiệp nhà phân tích kinh doanh?",
+        "answer_format": "scale",
+        "range": {
+            "min": 1,
+            "max": 5
+        }
+    },
+    {
+        "index": 17,
+        "type": "Multiple Choice",
+        "title": "Bạn có nghĩ rằng việc biết các công cụ này sẽ mang lại lợi thế\n                                            khi xin việc làm nhà phân tích kinh doanh không?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không",
+            "Không chắc\n                                                                        chắn"
+        ]
+    },
+    {
+        "index": 18,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 19,
+        "type": "Checkbox",
+        "title": "Những thách thức chính bạn gặp phải khi học công cụ hoặc kỹ\n                                            năng phân tích kinh doanh mới là gì? (Chọn tất cả các đáp án phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Thiếu thời gian",
+            "Công cụ hoặc kỹ năng quá\n                                                            phức tạp",
+            "Thiếu hướng dẫn hoặc tài\n                                                            liệu",
+            "Chi phí phần mềm hoặc\n                                                            khóa học",
+            "Thiếu kinh nghiệm thực\n                                                            hành",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 20,
+        "type": "Multiple Choice",
+        "title": "Bạn có cảm thấy chương trình học hiện tại cung cấp đủ đào tạo\n                                            về các công cụ và kỹ năng phân tích kinh doanh không?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không",
+            "Một\n                                                                        phần"
+        ]
+    },
+    {
+        "index": 21,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 22,
+        "type": "Checkbox",
+        "title": "Những tài nguyên nào sẽ giúp bạn học các công cụ và kỹ năng\n                                            phân tích kinh doanh tốt hơn? (Chọn tất cả các đáp án phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Hướng dẫn trực\n                                                            tuyến",
+            "Khóa học video",
+            "Hội thảo hoặc\n                                                            seminar",
+            "Dự án thực hành",
+            "Nhóm học tập cùng bạn\n                                                            bè",
+            "Hướng dẫn cá nhân",
+            "Sách và tài liệu tự\n                                                            học",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 23,
+        "type": "Checkbox",
+        "title": "Để học các kỹ năng phân tích kinh doanh, bạn thích phương pháp\n                                            nào sau đây? (Chọn tất cả các đáp án phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Khóa học trực\n                                                            tuyến",
+            "Hội thảo hoặc\n                                                            seminar",
+            "Dự án thực hành",
+            "Nhóm học tập",
+            "Hướng dẫn cá nhân",
+            "Sách và tài liệu tự\n                                                            học",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 24,
+        "type": "Multiple Choice",
+        "title": "Bạn có quan tâm đến một chương trình hoặc khóa học chuyên biệt\n                                            để học các công cụ và kỹ năng phân tích kinh doanh không?",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không",
+            "Có\n                                                                        thể"
+        ]
+    },
+    {
+        "index": 25,
+        "type": "Multiple Choice",
+        "title": "Bạn có thể dành bao nhiêu thời gian mỗi tuần để học các công\n                                            cụ và kỹ năng mới?",
+        "answer_format": "single_choice",
+        "options": [
+            "Dưới 2\n                                                                        giờ",
+            "2-5\n                                                                        giờ",
+            "5-10\n                                                                        giờ",
+            "Trên 10\n                                                                        giờ"
+        ]
+    },
+    {
+        "index": 26,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    },
+    {
+        "index": 27,
+        "type": "Multiple Choice",
+        "title": "Bạn dự định theo đuổi nghề nghiệp nào sau khi tốt\n                                            nghiệp?",
+        "answer_format": "single_choice",
+        "options": [
+            "Nhà phân\n                                                                        tích kinh doanh",
+            "Kế toán\n                                                                        viên",
+            "Kiểm toán\n                                                                        viên",
+            "Chuyên viên\n                                                                        tài chính"
+        ]
+    },
+    {
+        "index": 28,
+        "type": "Multiple Choice",
+        "title": "Bạn có kế hoạch theo đuổi chứng chỉ chuyên môn nào liên quan\n                                            đến phân tích kinh doanh không? (Ví dụ: CBAP, CCBA, ECBA)",
+        "answer_format": "single_choice",
+        "options": [
+            "Có",
+            "Không",
+            "Chưa quyết\n                                                                        định"
+        ]
+    },
+    {
+        "index": 29,
+        "type": "Checkbox",
+        "title": "Lĩnh vực nào bạn muốn áp dụng kỹ năng phân tích kinh doanh?\n                                            (Chọn tất cả các đáp án phù hợp)",
+        "answer_format": "multiple_choice",
+        "options": [
+            "Tài chính",
+            "Kiểm toán",
+            "Quản lý chuỗi cung\n                                                            ứng",
+            "Tiếp thị",
+            "Công nghệ thông\n                                                            tin",
+            "Mục khác:"
+        ]
+    },
+    {
+        "index": 30,
+        "type": "Unknown",
+        "title": "",
+        "answer_format": "unknown"
+    }
+]
